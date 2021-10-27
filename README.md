@@ -16,7 +16,6 @@ $ npm install
 
 Here we have all application scripts:
 
-*TODO: Pending to write building phase*
 *TODO: Pending to write testing phase*
 
 ```bash
@@ -29,7 +28,7 @@ $ npm start
 $ npm run build
 ```
 
-> Take the project and make a built product ready to be delivered.
+> Take the project and make a built product ready to be delivered at _dist_ folder.
 
 ```bash
 $ npm test

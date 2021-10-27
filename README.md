@@ -26,8 +26,18 @@ $ npm start
 > With only this command we are able to see the application running in http://localhost:1234/
 
 ```bash
+$ npm run build
+```
+
+> Take the project and make a built product ready to be delivered.
+
+```bash
 $ npm test
 ```
 
 > If you want to test the project integrity and coverage
 
+
+### Notes
+
+- If you want to use only javascript and remove all typescript stuff you only have to remove typescript dependency from _package.json_ file.
